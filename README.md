@@ -60,6 +60,10 @@ Import the CSV files into Power BI Desktop:
 4. Create relationships between tables using CustomerID and ProductID
 5. Build visualizations based on the dashboard specifications
 
+## Dashboard Preview
+
+![Sales Dashboard](sales_dashboard.png)
+
 ## Author
 
 BhumitJ7
