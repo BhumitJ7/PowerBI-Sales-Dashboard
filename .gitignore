@@ -1,0 +1,18 @@
+# Power BI
+*.pbix
+*.pbit
+.pbix-backup/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
